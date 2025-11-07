@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div className='text-red-400 '>This is not a game</div>
+    <div>About page</div>
   )
 }
 
